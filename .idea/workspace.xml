@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c0f6b16-5040-4c2d-94ba-a585ab3cfe5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/ArrowIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AnimatedYears.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CircleNav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EventsSwiper.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavigationButtons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/declarations.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useDevice.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mocks/historicalDates.mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/breakpoints.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/global.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +48,29 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pbelko/Desktop/test-task-timeline-slider-block/src/hooks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\pbelko\\Desktop\\test-task-timeline-slider-block\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "ts.external.directory.path": "C:\\Users\\pbelko\\Desktop\\test-task-timeline-slider-block\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pbelko\Desktop\test-task-timeline-slider-block\src\hooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pbelko\Desktop\test-task-timeline-slider-block\src\assets\icons" />
+      <recent name="C:\Users\pbelko\Desktop\test-task-timeline-slider-block\src\assets" />
+      <recent name="C:\Users\pbelko\Desktop\test-task-timeline-slider-block\public" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -61,11 +94,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754313613125</updated>
-      <workItem from="1754313613702" duration="3724000" />
+      <workItem from="1754313613702" duration="47164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
